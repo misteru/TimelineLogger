@@ -66,8 +66,3 @@
 - 外部ライブラリ・フレームワーク不使用。純粋なHTML/CSS/JavaScriptのみ。
 
 ---
-
-## 📄 ライセンス / License
-
-MIT License — 自由に使用・改変・配布できます。
-MIT License — Free to use, modify, and distribute.
